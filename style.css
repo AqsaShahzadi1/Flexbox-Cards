@@ -13,6 +13,13 @@ body {
     margin: 40px 0px;
 }
 
+.training-section img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0px 0px 10px 0px;
+}
+
 .training-section  h1{
     text-align: center;
     padding: 10px 0px;
@@ -23,7 +30,6 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 0px 40px;
 }
 
 .training-items {
